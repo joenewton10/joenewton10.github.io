@@ -60,7 +60,7 @@ author:
   avatar : "/assets/images/bio-photo.png"
   bio    : "MSc Environmental Sustainability | Geospatial Analysis & Carbon MRV"
   location: "Bonn, Germany"
-   links:
+  links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/joseph-yanney-ewusie-newton-"
