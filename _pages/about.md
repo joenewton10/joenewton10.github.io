@@ -20,21 +20,22 @@ I'm an environmental data analyst who turns raw climate, land-use and emissions 
 - **EUDR Deforestation Screening (Cocoa, Ghana):** a commodity-agnostic tool that flags farm plots against post-2020 forest-loss baselines and produces due-diligence-style risk reports.
 - **Green Roof Climate Data Pipeline:** an ETL pipeline harmonising multi-vendor sensor data into a 2.18-million-record time-series warehouse, with a Streamlit dashboard for my MSc thesis research.
 
+
 [See all projects →](/projects/)
 
 ## My journey across three continents
 
-**Ghana** is where it started. Growing up in Cape Coast, I saw how closely livelihoods depend on land, water and climate. I studied Agricultural Engineering at the University of Ghana, and later worked as a Project Analyst at Freezelink Cold Chain Logistics in Accra, benchmarking cold chain performance across client sites. That grounding gave me an in-depth understanding of West African agricultural supply chains.
+**Ghana** is where it started. Growing up in the coastal city of Cape Coast, I saw how closely livelihoods depend on land, water and climate. I studied Agricultural Engineering at the University of Ghana, and later worked as a Project Analyst at Freezelink Cold Chain Logistics in Accra, building modular cold chain solutions for clients. That grounding gave me an in-depth understanding of West African agricultural supply chains.
 
-**Israel** added hands-on experience: I earned a Diploma in Horticulture and coordinated a multicultural team on a farm during peak operations.
+**Israel** added hands-on experience: I earned a Diploma in Horticulture and coordinated a multicultural team on a farm during the uncertain covid environment.
 
-**Germany** is where data and sustainability came together. I completed an MSc in Environmental Sustainability at TH Bingen, with a thesis on green roof cooling effectiveness, and worked as a research assistant on climate adaptation field data. As a Werkstudent at BASF Digital Farming (xarvio) in Cologne, I validated digital farming datasets and coordinated with teams in Germany, Argentina and Brazil, which taught me how much model outputs depend on rigorous data quality. Today I'm a Production Assistant at HTWest GmbH in Bonn, where I also built an analytics platform to reduce production cost and waste.
+**Germany** is where data and sustainability came together. I completed an MSc in Environmental Sustainability at TH Bingen, with a thesis on green roof cooling effectiveness, and worked as a research assistant on climate adaptation field data. As a Werkstudent at BASF Digital Farming (xarvio) in Cologne, I validated digital farming datasets and coordinated with teams in Germany, Argentina and Brazil, which taught me how much model outputs depend on rigorous data quality. I currently work as a Werkstudent at HTWest GmbH in Bonn, where I also built an analytics platform to reduce production cost and waste. 
 
 ## Beyond work
 
 Since 2023, I've volunteered as a data analyst with Net Zero Tracker, documenting the net zero commitments of more than 50 companies and countries. I've also joined landscape restoration work in the Upper Middle Rhine Valley with Service Civil International.
 
-**Languages:** English (fluent), German (A2)
+**Languages:** English is my offical language and i am currently improving my German.
 
 ## Let's connect
 
