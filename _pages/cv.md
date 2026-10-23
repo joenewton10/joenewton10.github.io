@@ -36,6 +36,10 @@ Thesis: green roof cooling effectiveness (urban climate adaptation and environme
 
 **Diploma in Agriculture (Horticulture)**, AgroStudies Training Center, Netanya, Israel
 
+## Publications
+
+Panferov, O., Hietel, E., Rössner, U., Alef, J., & **Newton, J.** (2026). *Rainwater-irrigated greenroofs as climate change adaptation in urban areas.* EGU General Assembly 2026, BG10.12. [doi:10.5194/egusphere-egu26-18880](https://doi.org/10.5194/egusphere-egu26-18880)
+
 ## Projects
 
 - [Forest carbon MRV prototype, Kakum National Park](/projects/#forest-carbon-mrv-prototype-kakum-national-park-ghana): ≈12.47M tCO₂e stock (≈4.80M conservative), 95.5% classification accuracy, uncertainty analysis structured to Verra VM0048
