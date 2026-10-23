@@ -1,5 +1,5 @@
 ---
-title: "Same Electricity, Twice the Emissions: Building a Scope 1 & 2 Inventory for a German Manufacturer"
+title: Building a Scope 1 & 2 Inventory for a German Manufacturer"
 excerpt: "A GHG Protocol inventory for a precision cutting site, and why its market-based Scope 2 figure came out at roughly double the location-based one."
 categories:
   - GHG Accounting
