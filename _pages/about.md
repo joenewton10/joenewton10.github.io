@@ -29,7 +29,7 @@ I’m a data analyst working across climate, agriculture and food systems. I tur
 
 **Israel** added hands-on experience: I earned a Diploma in Horticulture and coordinated a multicultural team working on a farm during the uncertain covid period.
 
-**Germany** is where data and sustainability came together. I completed an MSc in Environmental Sustainability at TH Bingen, with a thesis on green roof cooling effectiveness, and worked as a research assistant on climate adaptation field data. Also as a Werkstudent at BASF Digital Farming (xarvio) in Cologne, I validated digital farming datasets and coordinated with teams in Germany, Argentina and Brazil, which taught me how much model outputs depend on rigorous data quality. I currently work as a Werkstudent at HTWest GmbH in Bonn, where I am building analytics tools to reduce production and emission cost and waste. 
+**Germany** is where data and sustainability came together. I completed an MSc in Environmental Sustainability at TH Bingen, with a thesis on green roof cooling effectiveness, and co-authored a contribution on the research to the EGU General Assembly 2026 and worked as a research assistant on climate adaptation field data. Also as a Werkstudent at BASF Digital Farming (xarvio) in Cologne, I validated digital farming datasets and coordinated with teams in Germany, Argentina and Brazil, which taught me how much model outputs depend on rigorous data quality. I currently work as a Werkstudent at HTWest GmbH in Bonn, where I am building analytics tools to reduce production and emission cost and waste amd supporting operations. 
 
 ## Beyond work
 
