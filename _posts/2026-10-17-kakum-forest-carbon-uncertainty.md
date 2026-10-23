@@ -1,5 +1,5 @@
 ---
-title: "Estimating carbon in Kakum National Park: A 95.5% accurate map and 61.5% uncertainty"
+title: "Estimating carbon in Kakum National Park"
 excerpt: "I expected the forest map to be the weak point in my carbon estimate. It turned out to be one number from an IPCC table."
 categories:
   - Carbon MRV
