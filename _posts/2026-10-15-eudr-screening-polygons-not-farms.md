@@ -1,5 +1,5 @@
 ---
-title: "Screening polygons, not finding farms: an EUDR deforestation check for Ghanaian cocoa"
+title: "An EUDR deforestation check for Ghanaian cocoa"
 excerpt: "Notes from building a plot-level EUDR screening tool: the 2020 cutoff, the limits of 30 m data, and why shaded cocoa looks like forest from space."
 categories:
   - Remote Sensing
