@@ -3,7 +3,7 @@ title: "About Me"
 permalink: /about/
 ---
 
-I'm an environmental data analyst who turns raw climate, land-use and emissions data into defensible, decision-ready outputs. My work sits where domain knowledge meets data: I understand the farms, forests and supply chains behind the numbers, and I build the pipelines to measure them.
+I’m a data analyst working across climate, agriculture and food systems. I turn raw emissions, land-use and farm data into defensible, decision-ready outputs. My work sits where domain knowledge meets data: I understand the farms, forests and supply chains behind the numbers, and I build the pipelines to measure them.
 
 ## What I do
 
@@ -29,14 +29,14 @@ I'm an environmental data analyst who turns raw climate, land-use and emissions 
 
 **Israel** added hands-on experience: I earned a Diploma in Horticulture and coordinated a multicultural team working on a farm during the uncertain covid period.
 
-**Germany** is where data and sustainability came together. I completed an MSc in Environmental Sustainability at TH Bingen, with a thesis on green roof cooling effectiveness, and worked as a research assistant on climate adaptation field data. Also as a Werkstudent at BASF Digital Farming (xarvio) in Cologne, I validated digital farming datasets and coordinated with teams in Germany, Argentina and Brazil, which taught me how much model outputs depend on rigorous data quality. I currently work as a Werkstudent at HTWest GmbH in Bonn, where I am building an AI-assisted Production intelligence and Cost Optimization platform to reduce production cost and waste. 
+**Germany** is where data and sustainability came together. I completed an MSc in Environmental Sustainability at TH Bingen, with a thesis on green roof cooling effectiveness, and worked as a research assistant on climate adaptation field data. Also as a Werkstudent at BASF Digital Farming (xarvio) in Cologne, I validated digital farming datasets and coordinated with teams in Germany, Argentina and Brazil, which taught me how much model outputs depend on rigorous data quality. I currently work as a Werkstudent at HTWest GmbH in Bonn, where I am building analytics tools to reduce production and emission cost and waste. 
 
 ## Beyond work
 
-I've joined landscape restoration work in the Upper Middle Rhine Valley with Service Civil International in the past and i enjoying traveling and spending time in nature. 
+I've joined landscape restoration work in the Upper Middle Rhine Valley with Service Civil International in the past and i enjoy traveling, reading  and spending time in nature. 
 
 **Languages:** English is my offical language and i am currently improving my German.
 
 ## Let's connect
 
-I'm open to roles in climate and environmental data analysis. Reach out on [LinkedIn](https://www.linkedin.com/in/joseph-yanney-ewusie-newton-/) or by [email](mailto:jyenewton10@gmail.com).
+I'm open to roles in climate and environmental data analysis as well as food and agriculture. Reach out on [LinkedIn](https://www.linkedin.com/in/joseph-yanney-ewusie-newton-/) or by [email](mailto:jyenewton10@gmail.com).
