@@ -1,5 +1,5 @@
 ---
-title: "Cleaning up years of sensor data for a green roof thesis"
+title: "End-to-end data pipeline for green roof performance analysis - Thesis"
 excerpt: "How I built the pipeline behind my MSc thesis at TH Bingen, which compares air temperature above a green roof and a parking lot, minute by minute."
 categories:
   - Climate Data
