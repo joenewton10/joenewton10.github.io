@@ -71,9 +71,9 @@ It's a screening tool for deforestation risk only. It doesn't check legality or 
 **Tools:** Google Earth Engine, Hansen GFC, Python, GeoJSON, pytest
 
 [Code on GitHub](https://github.com/joenewton10/eudr-plot-screening) · [Read the write-up]({% post_url 2026-10-15-eudr-screening-polygons-not-farms %})
-{% endcomment %}
----
 
+---
+{% endcomment %}
 ## Green roof climate data pipeline and dashboard
 
 ![Green roof thermal signal distribution](https://raw.githubusercontent.com/joenewton10/bingen-greenroof-ETL-pipeline/master/docs/screenshots/01_overall_signal.png)
