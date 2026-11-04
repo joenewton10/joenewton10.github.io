@@ -3,7 +3,7 @@ title: "About Me"
 permalink: /about/
 ---
 
-I’m a data analyst working across climate, agriculture and food systems. I turn raw emissions, land-use and farm data into defensible, decision-ready outputs. My work sits where domain knowledge meets data: I understand the farms, forests and supply chains behind the numbers, and I build the pipelines to measure them.
+I'm a data analyst working across climate, agriculture and food systems. I turn raw emissions, land-use and farm data into defensible, decision-ready outputs. My work sits where domain knowledge meets data: I understand the farms, forests and supply chains behind the numbers, and I build the tools to solve practical sustainability problems, from estimating a forest's carbon stock to helping a manufacturer see where its emissions come from.
 
 ## What I do
 
