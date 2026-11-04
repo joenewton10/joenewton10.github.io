@@ -54,7 +54,7 @@ The activity data is representative rather than real bills, and Scope 3 is outsi
 [Live demo](https://ghg-inventory-io.streamlit.app/) · [Code on GitHub](https://github.com/joenewton10/ghg-inventory) · [Read the write-up]({% post_url 2026-10-16-ghg-inventory-scope-1-2 %})
 
 ---
-
+{% comment %}
 ## EUDR plot-level deforestation screening (cocoa, Ghana)
 
 ![Sample EUDR screening report](https://raw.githubusercontent.com/joenewton10/eudr-plot-screening/master/docs/report_sample.png)
@@ -71,7 +71,7 @@ It's a screening tool for deforestation risk only. It doesn't check legality or 
 **Tools:** Google Earth Engine, Hansen GFC, Python, GeoJSON, pytest
 
 [Code on GitHub](https://github.com/joenewton10/eudr-plot-screening) · [Read the write-up]({% post_url 2026-10-15-eudr-screening-polygons-not-farms %})
-
+{% endcomment %}
 ---
 
 ## Green roof climate data pipeline and dashboard
