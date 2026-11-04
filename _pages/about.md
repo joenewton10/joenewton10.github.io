@@ -9,7 +9,6 @@ I’m a data analyst working across climate, agriculture and food systems. I tur
 
 - **Carbon MRV and GHG accounting:** carbon stock estimation structured to Verra REDD+ methodology, IPCC emission factors, uncertainty analysis
 - **Geospatial analysis and remote sensing:** land-cover classification and change detection with Sentinel-2 and Landsat
-- **Deforestation compliance:** EUDR plot-level screening against the 31 December 2020 cutoff
 - **Environmental data pipelines:** from raw sensor and satellite data to validated datasets, dashboards and reports
 
 **Tools:** Python (pandas, NumPy, rasterio), Google Earth Engine, QGIS, SQL / PostgreSQL, Power BI, Tableau, Streamlit, Git
@@ -17,7 +16,6 @@ I’m a data analyst working across climate, agriculture and food systems. I tur
 ## Selected work
 
 - **Forest Carbon MRV Prototype, Kakum National Park (Ghana):** an end-to-end pipeline estimating roughly 12.5 million tCO₂e from open Sentinel-2 imagery, with a Random Forest land-cover classification at 95.5% accuracy. The uncertainty analysis showed the biomass default, not the classification, was the dominant error source, which pointed to a GEDI-based biomass upgrade as the most valuable next step.
-- **EUDR Deforestation Screening (Cocoa, Ghana):** a commodity-agnostic tool that flags farm plots against post-2020 forest-loss baselines and produces due-diligence-style risk reports.
 - **Green Roof Climate Data Pipeline:** an ETL pipeline harmonising multi-vendor sensor data into a 2.18-million-record time-series warehouse, with a Streamlit dashboard for my MSc thesis research.
 
 
