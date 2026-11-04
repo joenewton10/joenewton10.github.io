@@ -1,5 +1,6 @@
 ---
 title: "An EUDR deforestation check for Ghanaian cocoa"
+published: false
 excerpt: "Notes from building a plot-level EUDR screening tool: the 2020 cutoff, the limits of 30 m data, and why shaded cocoa looks like forest from space."
 categories:
   - Remote Sensing
