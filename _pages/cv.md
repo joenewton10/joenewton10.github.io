@@ -44,7 +44,6 @@ Panferov, O., Hietel, E., Rössner, U., Alef, J., & **Newton, J.** (2026). *Rain
 
 - [Forest carbon MRV prototype, Kakum National Park](/projects/#forest-carbon-mrv-prototype-kakum-national-park-ghana): ≈12.47M tCO₂e stock (≈4.80M conservative), 95.5% classification accuracy, uncertainty analysis structured to Verra VM0048
 - [GHG inventory tool, Scope 1 and 2](/projects/#ghg-inventory-tool-scope-1-and-2-for-a-precision-cutting-site): dual Scope 2, Monte Carlo uncertainty, VSME and ESRS mapping, [live demo](https://ghg-inventory-io.streamlit.app/)
-- [EUDR plot-level deforestation screening](/projects/#eudr-plot-level-deforestation-screening-cocoa-ghana): Hansen GFC screening against the 2020 cutoff, with DDS-style reports
 - [Green roof climate data pipeline](/projects/#green-roof-climate-data-pipeline-and-dashboard): 2.18M-record sensor warehouse and statistical dashboard
 
 ## Skills
